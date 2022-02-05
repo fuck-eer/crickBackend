@@ -1,0 +1,38 @@
+{
+	"t1": {
+		"name": "India",
+		"id": "t1",
+		"logo": "https://www.freepnglogos.com/uploads/cricket-logo-png/india-national-cricket-team-24.png",
+		"org": "The Board of Control for Cricket in India (BCCI)",
+		"totalplayers": "",
+		"captain": "t1p1",
+		"baseColor": "#2255A4"
+	},
+	"t2": {
+		"name": "Australia",
+		"id": "t2",
+		"logo": "https://www.freepnglogos.com/uploads/cricket-logo-png/logo-cricket-australia-png-26.png",
+		"org": "Cricket Australia (CA)",
+		"totalplayers": "",
+		"captain": "t2p1",
+		"baseColor": "#ffe000"
+	},
+	"t3": {
+		"name": "England",
+		"id": "t3",
+		"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/England_and_Wales_Cricket_Board.svg/300px-England_and_Wales_Cricket_Board.svg.png",
+		"org": "The England and Wales Cricket Board (ECB)",
+		"totalplayers": "",
+		"captain": "t3p1",
+		"baseColor": "#B3E3EE"
+	},
+	"t4": {
+		"name": "South Africa",
+		"id": "t4",
+		"logo": "https://www.freepnglogos.com/uploads/cricket-logo-png/file-southafrica-cricket-logo-wikipedia-0.png",
+		"org": "Cricket South Africa (CSA)",
+		"totalplayers": "",
+		"captain": "t4p1",
+		"baseColor": "#006651"
+	}
+}
